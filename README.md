@@ -35,6 +35,6 @@ Edit
 ## 🙏 Credits
 
 - Portrait image used for educational purposes only.
-- Designed and developed by [Your Name].
+- Designed and developed by [Sahil Singh].
 
 ---
