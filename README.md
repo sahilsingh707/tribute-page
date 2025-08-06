@@ -28,9 +28,6 @@ A tribute page dedicated to the life and legacy of singer-songwriter **Elliott S
 ├── style.css
 └── elliottsmith.jpg
 
-yaml
-Copy
-Edit
 
 ## 🙏 Credits
 
